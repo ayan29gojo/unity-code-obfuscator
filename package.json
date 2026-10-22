@@ -1,0 +1,29 @@
+{
+    "name": "com.eastwhiz.code-obfuscator",
+    "version": "5.0.0",
+    "displayName": "Code Obfuscator",
+    "description": "Pre-build source obfuscator for Unity projects: renames namespaces, classes, members, assemblies, folders, assets, shaders, scene objects and PlayerPrefs keys in place, keeps every by-name reference in sync, strips comments, scrubs studio / product names, never touches SDK folders, journals every change for one-click restore, and gates player builds until the project is obfuscated. Settings live in a per-project JSON profile that can be exported to the next project.",
+    "unity": "2021.3",
+    "keywords": [
+        "obfuscation",
+        "obfuscator",
+        "security",
+        "il2cpp",
+        "rename",
+        "build",
+        "editor"
+    ],
+    "author": {
+        "name": "ayan29gojo",
+        "url": "https://github.com/ayan29gojo"
+    },
+    "type": "tool",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ayan29gojo/unity-code-obfuscator.git"
+    },
+    "documentationUrl": "https://github.com/ayan29gojo/unity-code-obfuscator#readme",
+    "changelogUrl": "https://github.com/ayan29gojo/unity-code-obfuscator/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/ayan29gojo/unity-code-obfuscator/blob/main/LICENSE.md"
+}
